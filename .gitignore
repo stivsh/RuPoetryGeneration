@@ -1,0 +1,7 @@
+env/*
+.ipynb_checkpoints/*
+.logs/*
+model_waights/*
+__pycache__/*
+data/*
+logs/*

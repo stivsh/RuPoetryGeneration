@@ -1,0 +1,2 @@
+The aim of this project is to try to generate text like Russian poetry with help of recurrent neural network.
+There are 2 implementation, Keras and Tensorwlof. Also, there are several generation algorithms, the best is Beam Search.
